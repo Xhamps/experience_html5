@@ -1,4 +1,4 @@
-Expirience HTML5
+Experience HTML5
 ================
 
 This examples to validate the performance of Canvas
